@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Neil Marco
+### [BI Developer / Azure Data Engineer]
 
-<!--
-**marcotaruc-commits/marcotaruc-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate about data who loves solving business real-world problems. Currently focusing on learning and expanding my tech stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+**Cloud & Orchestration: Azure Data Factory · Azure Synapse Analytics · ADLS Gen2 · Azure Databricks | Microsoft Fabric (DP-700 in progress)
+**Data Engineering: Delta Lake · Medallion Architecture · ELT Pipelines · Apache Spark (PySpark) · Parquet · JSON
+**Reporting & Modeling: Power BI · DAX · Power Query · Star Schema · Dimensional Modelling
+**DevOps & Tooling: Azure DevOps · CI/CD Pipelines · Git
+**Governance: Data Lineage · Data Quality · KPI Governance · RBAC 
+**Certifications: Microsoft Fabric DP-700 (in progress, expected Q3 2026) 
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** https://www.linkedin.com/in/neil-m-60a10639b/
