@@ -17,3 +17,9 @@ I am a passionate about data who loves solving business real-world problems. Cur
 
 ### 📫 Connect with me:
 - **LinkedIn:** https://www.linkedin.com/in/neil-m-60a10639b/
+
+---
+
+### PROJECT URL
+** end-to-end analytics solution focused on analyzing and optimizing communication between customers and couriers.
+ ** https://github.com/marcotaruc-commits/Power-BI-project-SQL-Phyton
